@@ -1,5 +1,5 @@
 {
-  "name": "gulp-tutorial",
+  "name": "gulp-tutorial2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,5 @@
   "devDependencies": {
     "browser-sync": "^2.14.3",
     "gulp": "^3.9.1",
-    "gulp-ruby-sass": "^2.1.0",
-    "gulp-sass": "^2.3.2"
-  }
+    "gulp-ruby-sass": "^2.1.0"  }
 }
